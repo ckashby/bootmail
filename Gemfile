@@ -11,6 +11,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+gem 'sprockets-rails', '~> 3.0', '>= 3.0.4'
 gem 'bootstrap', '~> 4.1', '>= 4.1.1'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'devise', '~> 4.4', '>= 4.4.3'
